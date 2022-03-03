@@ -1,1 +1,4 @@
-1111
+System.out.println();
+for(i = 0; i < size; i++) {
+    sout(i);
+}
