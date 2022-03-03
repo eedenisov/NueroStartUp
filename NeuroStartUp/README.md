@@ -4,3 +4,5 @@
     * Высокая скорость поиска
     * Низкая цена
 
+## Логотип:
+![NueroStartUp logo](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
